@@ -11,8 +11,8 @@
 - [ThinkSNS](https://github.com/slimkit/plus) ThinkSNS
 - [xhprof](https://github.com/longxinH/xhprof) 一个PHP的性能分析扩展
 - [QueryList](https://github.com/jae-jae/QueryList) 基于phpQuery的PHP爬虫
-- [oauth2-server] (https://github.com/thephpleague/oauth2-server) OAuth 2.0 服务端
-- [oauth2-client] (https://github.com/thephpleague/oauth2-client) OAuth 2.0 客户端
+- [oauth2-server](https://github.com/thephpleague/oauth2-server) OAuth 2.0 服务端
+- [oauth2-client](https://github.com/thephpleague/oauth2-client) OAuth 2.0 客户端
 - [yaf](https://github.com/laruence/yaf) 一个用C写的PHP框架，然而我并不觉得它多好用
 - [phalapi](https://github.com/phalapi/phalapi) 简称π框架，一个轻量级PHP开源接口框架
 - [curl](https://github.com/php-mod/curl) 一个封装好的curl扩展
