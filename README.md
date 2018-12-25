@@ -18,6 +18,7 @@
 - [curl](https://github.com/php-mod/curl) 一个封装好的curl扩展
 - [device-detector](https://github.com/matomo-org/device-detector) 检测用户设备类型/品牌等
 - [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) 调试插件
+- [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) 编辑器增加代码提示
 
 ## JavaScript相关
 - [quill](https://github.com/quilljs/quill) 富文本编辑器
