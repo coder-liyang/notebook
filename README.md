@@ -19,6 +19,8 @@
 - [device-detector](https://github.com/matomo-org/device-detector) 检测用户设备类型/品牌等
 - [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) 调试插件
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) 编辑器增加代码提示
+- [overtrue/wechat](https://github.com/overtrue/wechat) 为Laravel定制化的微信非官方库
+### 通用
 - [overtrue/wechat](https://github.com/overtrue/wechat) 微信非官方库
 
 ## JavaScript相关
