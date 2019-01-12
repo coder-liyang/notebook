@@ -23,13 +23,16 @@
 ### 通用
 - [overtrue/wechat](https://github.com/overtrue/wechat) 微信非官方库
 
+### Yii2
+- [yii2-swoole](https://github.com/xiaochengfu/yii2-swoole) yii2 Swoole 扩展
+
 ## JavaScript相关
 - [quill](https://github.com/quilljs/quill) 富文本编辑器
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) JavaScript操作excel
 - [template.js](https://github.com/yanhaijing/template.js) 一个简单的前端模板
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) 一个复制粘贴插件
 - [nw.js](https://github.com/nwjs/nw.js) 可以使用JavaScript开发桌面软件的模块
-- [yii2-swoole](https://github.com/xiaochengfu/yii2-swoole)yii2 Swoole 扩展
+- [ljharb/qs](https://github.com/ljharb/qs) 将对象转化为查询字符串
 
 ## Docker相关
 - [dnmp](https://github.com/yeszao/dnmp) Docker构建的Docker-NGINX-MySQL-PHP环境
