@@ -22,9 +22,13 @@
 - [laravel-wechat](https://github.com/overtrue/laravel-wechat) 为Laravel定制化的微信非官方库
 - [Aliyun-oss-storage](https://github.com/jacobcyl/Aliyun-oss-storage)阿里云OSS的laravel扩展
 - [vyuldashev/laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq)rabbitmq扩展
+
 ### 通用
 - [overtrue/wechat](https://github.com/overtrue/wechat) 微信非官方库
 - [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen/blob/windows/README.zh-CN.md)激活任意版本Navicat
+- [jenssegers/imagehash](https://github.com/jenssegers/imagehash) 对比两张图的相似度
+- [Intervention/image](https://github.com/Intervention/image)图片操作库
+
 ### Yii2
 - [yii2-swoole](https://github.com/xiaochengfu/yii2-swoole) yii2 Swoole 扩展
 
