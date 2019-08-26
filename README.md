@@ -52,6 +52,7 @@
 
 ## 书
 - [design-patterns-by-php](https://github.com/flyingalex/design-patterns-by-php) 《大话设计模式》php版本
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) golang搭建WEB应用
 
 ## 资源相关
 - [unsplash-php](https://github.com/unsplash/unsplash-php) 免费图片网站unsplash的SDK
