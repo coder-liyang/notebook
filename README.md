@@ -29,7 +29,7 @@
 - [jenssegers/imagehash](https://github.com/jenssegers/imagehash) 对比两张图的相似度
 - [Intervention/image](https://github.com/Intervention/image) 图片操作库
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) 分析UA
-
+- [cakephp/phinx](https://github.com/cakephp/phinx) 数据库迁移工具
 ### Yii2
 - [yii2-swoole](https://github.com/xiaochengfu/yii2-swoole) yii2 Swoole 扩展
 
