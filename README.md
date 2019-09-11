@@ -22,6 +22,7 @@
 - [laravel-wechat](https://github.com/overtrue/laravel-wechat) 为Laravel定制化的微信非官方库
 - [Aliyun-oss-storage](https://github.com/jacobcyl/Aliyun-oss-storage)阿里云OSS的laravel扩展
 - [vyuldashev/laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq)rabbitmq扩展
+- [laravel-swoole](https://github.com/swooletw/laravel-swoole) 用swoole做服务器的laravel扩展
 
 ### 通用
 - [overtrue/wechat](https://github.com/overtrue/wechat) 微信非官方库
