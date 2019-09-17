@@ -32,6 +32,8 @@
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) 分析UA
 - [cakephp/phinx](https://github.com/cakephp/phinx) 数据库迁移工具
 - [swoole-ide-helper](https://github.com/wudi/swoole-ide-helper) swoole代码提示工具
+- [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) 二维码
+
 ### Yii2
 - [yii2-swoole](https://github.com/xiaochengfu/yii2-swoole) yii2 Swoole 扩展
 
