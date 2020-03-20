@@ -26,7 +26,6 @@
 
 ### 通用
 - [overtrue/wechat](https://github.com/overtrue/wechat) 微信非官方库
-- [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen/blob/windows/README.zh-CN.md)激活任意版本Navicat
 - [jenssegers/imagehash](https://github.com/jenssegers/imagehash) 对比两张图的相似度
 - [Intervention/image](https://github.com/Intervention/image) 图片操作库
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) 分析UA
