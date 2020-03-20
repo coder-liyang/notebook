@@ -33,6 +33,7 @@
 - [swoole-ide-helper](https://github.com/wudi/swoole-ide-helper) swoole代码提示工具
 - [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) 二维码
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) excel处理
+- [guzzle/guzzle](https://github.com/guzzle/guzzle) php最火的http客户端
 
 ### Yii2
 - [yii2-swoole](https://github.com/xiaochengfu/yii2-swoole) yii2 Swoole 扩展
