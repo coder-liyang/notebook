@@ -48,6 +48,7 @@
 
 ## Docker相关
 - [dnmp](https://github.com/yeszao/dnmp) Docker构建的Docker-NGINX-MySQL-PHP环境
+- [vpn](https://github.com/hwdsl2/ipsec-vpn-server) 一键构建VPN服务
 
 ## 系统相关
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) 一个VPN脚本
