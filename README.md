@@ -48,7 +48,7 @@
 
 ## Docker相关
 - [dnmp](https://github.com/yeszao/dnmp) Docker构建的Docker-NGINX-MySQL-PHP环境
-- [vpn](https://github.com/hwdsl2/ipsec-vpn-server) 一键构建VPN服务
+- [vpn](https://github.com/hwdsl2/docker-ipsec-vpn-server/blob/master/README-zh.md) 一键构建VPN服务
 - [frp](https://github.com/snowdreamtech/frp) frpc/frps
 - [openwrtorg/imagebuilder](https://hub.docker.com/r/openwrtorg/imagebuilder) 这个镜像里包含了编译OpenWrt所需的基础软件包,可以方便的编译openwrt镜像
 
