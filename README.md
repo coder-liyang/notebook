@@ -59,6 +59,7 @@
 - [ssdb](https://github.com/ideawu/ssdb) 一个可以替代Redis的NoSQL数据库
 - [thefuck](https://github.com/nvbn/thefuck) 命令行纠错工具
 - [navi](https://github.com/denisidoro/navi) 命令行提示工具
+- [supervisor](https://github.com/Supervisor/supervisor) Linux进程管理工具
 
 ## 书
 - [design-patterns-by-php](https://github.com/flyingalex/design-patterns-by-php) 《大话设计模式》php版本
