@@ -63,6 +63,7 @@
 ## 路由器
 - [luci-app-unblockmusic](https://github.com/maxlicheng/luci-app-unblockmusic) 解锁网易云音乐灰色歌曲
 - [luci-app-unblockneteasemusic](https://github.com/project-openwrt/luci-app-unblockneteasemusic) 解锁网易云音乐灰色歌曲
+- [luci-app-ssr-plus](https://github.com/coder-liyang/luci-app-ssr-plus) SSR-Plus
 
 ## 书
 - [design-patterns-by-php](https://github.com/flyingalex/design-patterns-by-php) 《大话设计模式》php版本
