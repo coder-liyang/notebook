@@ -64,10 +64,15 @@
 - [thefuck](https://github.com/nvbn/thefuck) 命令行纠错工具
 - [navi](https://github.com/denisidoro/navi) 命令行提示工具
 - [supervisor](https://github.com/Supervisor/supervisor) Linux进程管理工具
+
 ## 路由器
 - [luci-app-unblockmusic](https://github.com/maxlicheng/luci-app-unblockmusic) 解锁网易云音乐灰色歌曲
 - [luci-app-unblockneteasemusic](https://github.com/project-openwrt/luci-app-unblockneteasemusic) 解锁网易云音乐灰色歌曲
 - [luci-app-ssr-plus](https://github.com/coder-liyang/luci-app-ssr-plus) SSR-Plus
+- [fancyss_history_package](https://github.com/hq450/fancyss_history_package) koolshare科学上网插件
+
+## 科学上网
+- [freefq/free](https://github.com/freefq/free) 免费节点
 
 ## 书
 - [design-patterns-by-php](https://github.com/flyingalex/design-patterns-by-php) 《大话设计模式》php版本
@@ -75,3 +80,4 @@
 
 ## 资源相关
 - [unsplash-php](https://github.com/unsplash/unsplash-php) 免费图片网站unsplash的SDK
+
