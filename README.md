@@ -73,6 +73,9 @@
 
 ## 科学上网
 - [freefq/free](https://github.com/freefq/free) 免费节点
+- [V2rayU](https://github.com/yanue/V2rayU) Mac客户端
+- [Xray-core](https://github.com/XTLS/Xray-core) 多平台客户端
+- [v2rayL](https://github.com/jiangxufeng/v2rayL) Linux客户端
 
 ## 书
 - [design-patterns-by-php](https://github.com/flyingalex/design-patterns-by-php) 《大话设计模式》php版本
