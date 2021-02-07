@@ -42,13 +42,14 @@
 - [owncloud](https://doc.owncloud.org/server/10.5/admin_manual/installation/docker/) owncloud
 - [nextcloud](https://github.com/nextcloud/docker) nextcloud
 
-## JavaScript相关
+## 前端相关
 - [quill](https://github.com/quilljs/quill) 富文本编辑器
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) JavaScript操作excel
 - [template.js](https://github.com/yanhaijing/template.js) 一个简单的前端模板
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) 一个复制粘贴插件
 - [nw.js](https://github.com/nwjs/nw.js) 可以使用JavaScript开发桌面软件的模块
 - [ljharb/qs](https://github.com/ljharb/qs) 将对象转化为查询字符串
+- [xuexiangjys/flutter_template](https://github.com/xuexiangjys/flutter_template)Flutter空壳模板工程
 
 ## Docker相关
 - [dnmp](https://github.com/yeszao/dnmp) Docker构建的Docker-NGINX-MySQL-PHP环境
@@ -70,6 +71,7 @@
 - [luci-app-unblockneteasemusic](https://github.com/project-openwrt/luci-app-unblockneteasemusic) 解锁网易云音乐灰色歌曲
 - [luci-app-ssr-plus](https://github.com/coder-liyang/luci-app-ssr-plus) SSR-Plus
 - [fancyss_history_package](https://github.com/hq450/fancyss_history_package) koolshare科学上网插件
+- [siropboy/mypackages](https://github.com/siropboy/mypackages) OpenWrt 一键安装常用插件
 
 ## 科学上网
 - [freefq/free](https://github.com/freefq/free) 免费节点
@@ -80,6 +82,8 @@
 ## 书
 - [design-patterns-by-php](https://github.com/flyingalex/design-patterns-by-php) 《大话设计模式》php版本
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) golang搭建WEB应用
+- [GolangCodingTime](https://github.com/iswbm/GolangCodingTime) Go编程时光
+- [http://golang.iswbm.com](http://golang.iswbm.com/en/latest/index.html) Go编程时光
 
 ## 资源相关
 - [unsplash-php](https://github.com/unsplash/unsplash-php) 免费图片网站unsplash的SDK
