@@ -3,6 +3,7 @@
 
 ## Golang相关
 - [spf13/cobra](https://github.com/spf13/cobra) 命令行程序库
+- [OpenIMSDK](https://github.com/OpenIMSDK) 全套的开源IM框架
 
 
 ## PHP相关
