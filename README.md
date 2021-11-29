@@ -4,7 +4,7 @@
 ## Golang相关
 - [spf13/cobra](https://github.com/spf13/cobra) 命令行程序库
 - [OpenIMSDK](https://github.com/OpenIMSDK) 全套的开源IM框架
-- [dctc](https://github.com/tenfyzhong/dctc) 将通过docker容器逆向生成docker-compose.yml
+- [dctc](https://github.com/tenfyzhong/dctc) 通过docker容器逆向生成docker-compose.yml
 
 
 ## PHP相关
