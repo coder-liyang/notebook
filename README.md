@@ -104,3 +104,5 @@
 
 ## 工具
 - [koodo-reader](https://github.com/troyeguo/koodo-reader) 开源电子书服务端+客户端
+- [Heimdall](https://github.com/linuxserver/Heimdall) 个人导航网站
+- [CasaOS](https://github.com/IceWhaleTech/CasaOS) WEB桌面系统
