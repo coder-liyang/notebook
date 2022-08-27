@@ -83,6 +83,7 @@
 - [fancyss_history_package](https://github.com/hq450/fancyss_history_package) koolshare科学上网插件
 - [siropboy/mypackages](https://github.com/siropboy/mypackages) OpenWrt 一键安装常用插件
 - [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) OpenWrt云编译
+- [openwrtorg/rootfs](https://hub.docker.com/r/openwrtorg/rootfs) docker里的openwrt
 
 ## 科学上网
 - [freefq/free](https://github.com/freefq/free) 免费节点
