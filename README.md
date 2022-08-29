@@ -6,6 +6,8 @@
 - [OpenIMSDK](https://github.com/OpenIMSDK) 全套的开源IM框架
 - [dctc](https://github.com/tenfyzhong/dctc) 通过docker容器逆向生成docker-compose.yml
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) Go开发路线图
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) gin+vue的管理后台
+- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) gin+vue+element的管理后台
 
 ## PHP相关
 ### laravel
