@@ -112,3 +112,4 @@
 - [Heimdall](https://github.com/linuxserver/Heimdall) 个人导航网站
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) WEB桌面系统
 - [bollwarm/sectoolset](https://github.com/bollwarm/sectoolset) 安全项目工具集合
+- [rubick](https://github.com/rubickCenter/rubick) 开源工具箱
