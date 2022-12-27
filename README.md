@@ -113,3 +113,4 @@
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) WEB桌面系统
 - [bollwarm/sectoolset](https://github.com/bollwarm/sectoolset) 安全项目工具集合
 - [rubick](https://github.com/rubickCenter/rubick) 开源工具箱
+- [Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) Linux上的QQ客户端
