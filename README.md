@@ -89,6 +89,7 @@
 - [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) OpenWrt云编译
 - [openwrtorg/rootfs](https://hub.docker.com/r/openwrtorg/rootfs) docker里的openwrt(基础系统)
 - [SuLingGG/OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker) docker里的openwrt(含插件)
+- [esirpg/buddha](https://hub.docker.com/r/esirpg/buddha) docker里的openwrt(推荐)
 
 ## 科学上网
 - [freefq/free](https://github.com/freefq/free) 免费节点
