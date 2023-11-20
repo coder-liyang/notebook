@@ -47,6 +47,7 @@
 - [tesseract](https://github.com/tesseract-ocr/tesseract) OCR
 - [Lychee](https://github.com/LycheeOrg/Lychee)一个开源的相册系统
 - [Heimdall](https://github.com/linuxserver/Heimdall)一个网址导航
+- [kasmweb/chrome](https://hub.docker.com/r/kasmweb/chrome) 一个远程的虚拟浏览器,可以通过这个浏览器无缝访问内网设备
 
 ### Yii2
 - [yii2-swoole](https://github.com/xiaochengfu/yii2-swoole) yii2 Swoole 扩展
