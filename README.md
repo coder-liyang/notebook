@@ -121,3 +121,4 @@
 - [Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) Linux上的QQ客户端
 - [scrcpy](https://github.com/Genymobile/scrcpy) 开源安卓投屏工具
 - [usefathom/fathom](https://github.com/usefathom/fathom) 开源统计系统
+- [Moosync](https://github.com/Moosync/Moosync) 跨平台本地播放器
