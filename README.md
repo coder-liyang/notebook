@@ -108,6 +108,7 @@
 
 ## 资源相关
 - [unsplash-php](https://github.com/unsplash/unsplash-php) 免费图片网站unsplash的SDK
+- [my-tv](https://github.com/lizongying/my-tv) 免费的直播软件(电视盒子用)
 
 ## Ubuntu桌面版使用
 - [deepin-wine](https://github.com/zq1997/deepin-wine) 一键安装deepin版的wine软件
