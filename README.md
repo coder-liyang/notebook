@@ -128,3 +128,4 @@
 - [xiaomusic](https://github.com/hanxi/xiaomusic/) 用小米音响播放NAS音乐
 - [gotify](https://gotify.net/docs/install) 自建安卓推送服务
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) 免费开发资源集合
+- [synctv](https://github.com/synctv-org/synctv) 多终端同步看视频
