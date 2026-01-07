@@ -131,3 +131,4 @@
 - [gotify](https://gotify.net/docs/install) 自建安卓推送服务
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) 免费开发资源集合
 - [synctv](https://github.com/synctv-org/synctv) 多终端同步看视频
+- [3x-ui](https://github.com/gm-cx/3x-ui-cn) 3x-ui
