@@ -133,3 +133,4 @@
 - [synctv](https://github.com/synctv-org/synctv) 多终端同步看视频
 - [3x-ui](https://github.com/gm-cx/3x-ui-cn) 3x-ui
 - [TigerVNC](https://github.com/TigerVNC/tigervnc) TigerVNC
+- [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) 酷狗第三方客户端
