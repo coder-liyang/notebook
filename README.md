@@ -113,6 +113,7 @@
 - [my-tv](https://github.com/lizongying/my-tv) 免费的直播软件(电视盒子用)
 - [public-apis](https://github.com/public-apis/public-apis/tree/master) 免费接口
 - [always-online-stun](https://github.com/pradt2/always-online-stun) 定期更新的stun服务器列表
+- [zhi35/iptv](https://github.com/zhi35/iptv/) iptv列表
 
 ## Ubuntu桌面版使用
 - [deepin-wine](https://github.com/zq1997/deepin-wine) 一键安装deepin版的wine软件
