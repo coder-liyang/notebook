@@ -135,3 +135,4 @@
 - [3x-ui](https://github.com/gm-cx/3x-ui-cn) 3x-ui
 - [TigerVNC](https://github.com/TigerVNC/tigervnc) TigerVNC
 - [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) 酷狗第三方客户端
+- [nps](https://github.com/ehang-io/nps) Golang写的内网穿透工具
