@@ -10,6 +10,7 @@
 - [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) gin+vue+element的管理后台
 - [g](https://github.com/voidint/g) 多版本切换
 - [gg](https://github.com/bytedance/gg) 字节跳动开发的 Go 语言泛型基础库
+- [chromedp](https://github.com/chromedp/chromedp) golang调用浏览器api
 
 ## PHP相关
 ### laravel
