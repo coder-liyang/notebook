@@ -138,3 +138,4 @@
 - [TigerVNC](https://github.com/TigerVNC/tigervnc) TigerVNC
 - [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) 酷狗第三方客户端
 - [nps](https://github.com/ehang-io/nps) Golang写的内网穿透工具
+- [GoNav](https://github.com/Syngnat/GoNavi) GoNav 基于golang的数据库管理工具
