@@ -141,3 +141,6 @@
 - [GoNav](https://github.com/Syngnat/GoNavi) GoNav 基于golang的数据库管理工具
 - [gost](https://github.com/go-gost/gost) gost 基于golang的轻量代理
 - [winapps](https://github.com/winapps-org/winapps) 在Linux中通过容器或虚拟机运行Windows,此项目可以将Windows中的软件映射到宿主机,带来Windows原生体验,但是会多消耗一些性能
+- [GeoLite](https://github.com/P3TERX/GeoLite.mmdb) GeoLite IP库
+- [GeoLite-Golang-SDK](https://github.com/oschwald/geoip2-golang) GoeLite对应的Golang客户端
+- [ip2region](https://github.com/lionsoul2014/ip2region) 开源IP库
