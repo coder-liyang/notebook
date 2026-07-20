@@ -52,9 +52,6 @@
 - [kasmweb/chrome](https://hub.docker.com/r/kasmweb/chrome) 一个远程的虚拟浏览器,可以通过这个浏览器无缝访问内网设备
 - [neko](https://neko.m1k1o.net/) 一个远程虚拟浏览器,可以多用户共享的
 
-### Yii2
-- [yii2-swoole](https://github.com/xiaochengfu/yii2-swoole) yii2 Swoole 扩展
-
 ### 网盘
 - [owncloud](https://doc.owncloud.org/server/10.5/admin_manual/installation/docker/) owncloud
 - [nextcloud](https://github.com/nextcloud/docker) nextcloud
@@ -116,6 +113,9 @@
 - [public-apis](https://github.com/public-apis/public-apis/tree/master) 免费接口
 - [always-online-stun](https://github.com/pradt2/always-online-stun) 定期更新的stun服务器列表
 - [zhi35/iptv](https://github.com/zhi35/iptv/) iptv列表
+- [GeoLite](https://github.com/P3TERX/GeoLite.mmdb) GeoLite IP库
+- [GeoLite-Golang-SDK](https://github.com/oschwald/geoip2-golang) GoeLite对应的Golang客户端
+- [ip2region](https://github.com/lionsoul2014/ip2region) 开源IP库
 
 ## Ubuntu桌面版使用
 - [deepin-wine](https://github.com/zq1997/deepin-wine) 一键安装deepin版的wine软件
@@ -141,6 +141,3 @@
 - [GoNav](https://github.com/Syngnat/GoNavi) GoNav 基于golang的数据库管理工具
 - [gost](https://github.com/go-gost/gost) gost 基于golang的轻量代理
 - [winapps](https://github.com/winapps-org/winapps) 在Linux中通过容器或虚拟机运行Windows,此项目可以将Windows中的软件映射到宿主机,带来Windows原生体验,但是会多消耗一些性能
-- [GeoLite](https://github.com/P3TERX/GeoLite.mmdb) GeoLite IP库
-- [GeoLite-Golang-SDK](https://github.com/oschwald/geoip2-golang) GoeLite对应的Golang客户端
-- [ip2region](https://github.com/lionsoul2014/ip2region) 开源IP库
