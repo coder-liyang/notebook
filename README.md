@@ -143,3 +143,4 @@
 - [gost](https://github.com/go-gost/gost) gost 基于golang的轻量代理
 - [winapps](https://github.com/winapps-org/winapps) 在Linux中通过容器或虚拟机运行Windows,此项目可以将Windows中的软件映射到宿主机,带来Windows原生体验,但是会多消耗一些性能
 - [Clash for linux install](https://github.com/nelvko/clash-for-linux-install) 在Linux终端中方便的使用clash
+- [deskreen](https://github.com/pavlobu/deskreen) 将任何设备作为电脑显示器
