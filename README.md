@@ -117,6 +117,7 @@
 - [GeoLite](https://github.com/P3TERX/GeoLite.mmdb) GeoLite IP库
 - [GeoLite-Golang-SDK](https://github.com/oschwald/geoip2-golang) GoeLite对应的Golang客户端
 - [ip2region](https://github.com/lionsoul2014/ip2region) 开源IP库
+- [english-vocabulary](https://github.com/KyleBing/english-vocabulary) 英语词书
 
 ## Ubuntu桌面版使用
 - [deepin-wine](https://github.com/zq1997/deepin-wine) 一键安装deepin版的wine软件
