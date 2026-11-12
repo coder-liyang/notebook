@@ -73,6 +73,7 @@
 - [openwrt-gfw](https://hub.docker.com/r/ir20/openwrt-gfw) 可以下载OpenWrt科学上网的插件包
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) 一个安卓容器
 - [HQarroum/docker-android](https://github.com/budtmo/docker-android) 另一个安卓容器
+- [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) docker镜像
 
 ## 系统相关
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) 一个VPN脚本
